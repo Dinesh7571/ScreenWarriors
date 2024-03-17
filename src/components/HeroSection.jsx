@@ -8,14 +8,13 @@ const HeroSection = () => {
         <h1
           class="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl"
         >
-          Understand User Flow.
+         Empowering Your Journey
   
-          <span class="sm:block"> Increase Conversion. </span>
+          <span class="sm:block"> Roadmaps, Jobs,Resources </span>
         </h1>
   
         <p class="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt illo tenetur fuga ducimus
-          numquam ea!
+        Empower Your Career: Tailored roadmaps, job opportunities, essential resources. Start your journey now.
         </p>
   
         <div class="mt-8 flex flex-wrap justify-center gap-4">
